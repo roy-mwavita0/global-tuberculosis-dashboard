@@ -11,24 +11,27 @@ An interactive R Shiny dashboard to analyze and visualize Tuberculosis (TB) tren
 ---
 
 ## 📦 Features
-
-- **📊 Interactive plots for TB incidence and mortality (per 100,000 population)**
+ ### 1.📊 Interactive plots for TB incidence and mortality (per 100,000 population)
+ 
   
 ![Screenshot 2025-07-10 111246](https://github.com/user-attachments/assets/090eb038-3856-4358-816b-815b7c162909)
 
-- **🌐 Choropleth map showing average TB incidence by country**
+### 2.🌐 Choropleth map showing average TB incidence by country
+
 
 ![Screenshot 2025-07-10 111140](https://github.com/user-attachments/assets/aebe0af9-1d62-4465-8d91-6961fb9044ad)
 
-- **🔎 Country and year filters (multi-country selection supported)**
+### 3.🔎 Country and year filters (multi-country selection supported)
+
 
   ![Screenshot 2025-07-10 111159](https://github.com/user-attachments/assets/a1295ba2-9bcf-4607-827e-9d7d33fc0368)
 
-- **📈 Yearly trend lines for multiple countries**
+### 4.📈 Yearly trend lines for multiple countries
+
   
   ![Screenshot 2025-07-10 111230](https://github.com/user-attachments/assets/a9ad3eda-3fbb-4cc6-99ee-c3de6ef33b37)
 
-- **🧬 TB/HIV co-infection metrics and visualizations**
+### 5.🧬 TB/HIV co-infection metrics and visualizations**
 
 
 ---
